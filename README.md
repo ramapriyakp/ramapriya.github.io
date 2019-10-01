@@ -2,7 +2,7 @@
 This Repository containing portfolio of data science projects completed by me for academic, self learning purposes to track my progress in AI/Data Science.The projects are from Machine learning,Computer Vision and Natural Language Processing(NLP).
 
 ## Computer Vision
-[Identify_Blood_Cell_Subtypes_From_Images](https://github.com/ramapriyakp/Portfolio/blob/master/CV/Identify_Blood_Cell_Subtypes_From_Images.ipynb)
+### [Identify_Blood_Cell_Subtypes_From_Images](https://github.com/ramapriyakp/Portfolio/blob/master/CV/Identify_Blood_Cell_Subtypes_From_Images.ipynb)
 <br>Use computer vision techniques to automate methods to detect and classify blood cell subtypes. Trained a convolutional neural network (CNN) for classifying blood cell subtypes. Used Keras Sequential API to define CNN network and classify blood cell subtypes. Achieved Test accuracy of 95% for two class classification by nucleii number and 75% accuracy for four class classification by cell type
 
 [Kangaroo_detect](https://github.com/ramapriyakp/Portfolio/blob/master/CV/Kangaroo_detect.ipynb)
