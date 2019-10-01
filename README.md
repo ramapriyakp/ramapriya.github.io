@@ -1,4 +1,4 @@
-## Welcome to Ramapriya's Data Scince Project Portfolio
+## Welcome to Ramapriya's Data Science Project Portfolio
 <center>This Repository containing portfolio of data science projects completed by me for academic, self learning purposes to track my progress in AI/Data Science.The projects are from Machine learning,Computer Vision and Natural Language Processing(NLP).</center>
 
 ## Computer Vision
