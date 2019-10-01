@@ -40,7 +40,7 @@ A trained language model learns the likelihood of occurrence of a word based on 
 Our goal is to predict whether the new e-mail is spam or not-spam. We use dataset and ML decision tree algorithm and provide the best suited class for the new mail. The algorithm that implements the classification is called a classifier. The accuracy of classifier is 96% and AUC 93%. 
 
 ### [Word_Embeddings ](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Word_Embeddings.ipynb)
-<center>Word embedding is process of converting each word to a fixed dimensional "word vector". Dimensionality of embedding space (i.e., vector space) is a hyperparameter. The model has and embedding layer used as first layer in network to model text format data.  Test Accuracy of word embedding model is 85%.</center>
+Word embedding is process of converting each word to a fixed dimensional "word vector". Dimensionality of embedding space (i.e., vector space) is a hyperparameter. The model has and embedding layer used as first layer in network to model text format data.  Test Accuracy of word embedding model is 85%. 
 
 ### [Text Classification_Reuter](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/text_classification_Reuter.ipynb)
 Reuters-21578 is arguably the most commonly used collection for text classification . The newswire articles is a multi-label problem with highly skewed distribution of documents over categories. The OneVsRestClassifier(LinearSVC) model  metrics is  F1-measure: 0.86 for Micro-average  and F1-measure: 0.44 for Macro-average. 
