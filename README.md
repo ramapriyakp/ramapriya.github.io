@@ -1,4 +1,3 @@
-# Welcome to Ramapriya's Homepage  
 ## Profile
 Highly self-motivated goal oriented professional with 20 years of experience in the information technology industry in various roles as Senior Technical Lead,  Onsite coordinator, Project leader. Proven track record   demonstrating strong analytical and problem solving skills, maintain focus on achieving bottom line results, business solutions to meet a diversity of needs, Customer Management and Project Coordination with good interpersonal/communication skills.
  
