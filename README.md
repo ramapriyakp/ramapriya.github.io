@@ -5,42 +5,4 @@ This Repository containing portfolio of data science projects completed by me fo
 [Identify_Blood_Cell_Subtypes_From_Images](https://github.com/ramapriyakp/Portfolio/blob/master/CV/Identify_Blood_Cell_Subtypes_From_Images.ipynb)
 
 [Kangaroo_detect](https://github.com/ramapriyakp/Portfolio/blob/master/CV/Kangaroo_detect.ipynb)
-In this project, I implemented the deep learning method for object localization (finding objects in an image)
-==========================================================================
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ramapriyakp/ramapriya.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ramapriyakp/ramapriya.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>This project, implements the deep learning method for object localization (finding objects in an image)</p>
