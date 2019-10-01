@@ -10,34 +10,34 @@ This Repository containing portfolio of data science projects completed by me fo
 
 ## Machine Learning
 [Credit Fraud Detector](https://github.com/ramapriyakp/Portfolio/blob/master/ML/Credit%20Fraud%20Detector.ipynb)
-<b>Credit Card Fraud Detection Problem includes modeling past credit card transactions with the knowledge of the ones that turned out to be fraud.  The main goal is to fit the model either with the dataframes that were undersample and oversample (in order for our models to detect the patterns), and test it on the original testing set.The best classifier is  Logistic Regression with accuracy of 95% for Random UnderSampling and 95% for Oversampling (SMOTE)</b>
+<br>Credit Card Fraud Detection Problem includes modeling past credit card transactions with the knowledge of the ones that turned out to be fraud.  The main goal is to fit the model either with the dataframes that were undersample and oversample (in order for our models to detect the patterns), and test it on the original testing set.The best classifier is  Logistic Regression with accuracy of 95% for Random UnderSampling and 95% for Oversampling (SMOTE) 
 
 [Customers Segmentation (Clustering Model)](https://github.com/ramapriyakp/Portfolio/blob/master/ML/Mall-Customers-Segmentation-Analysis-Clustering-Model.ipynb)
-<b>Use Clustering Analysis (KMeans) for very clear insight about the different segments of the customers in the Mall. Then after getting the results we can  accordingly make different marketing strategies and policies to optimize the spending scores of the customer in the Mall.</b>
+<br>Use Clustering Analysis (KMeans) for very clear insight about the different segments of the customers in the Mall. Then after getting the results we can  accordingly make different marketing strategies and policies to optimize the spending scores of the customer in the Mall. 
 
 [Sentiment classification of airlines tweets](https://github.com/ramapriyakp/Portfolio/blob/master/ML/Sentiment%20classification%20of%20airlines%20tweets.ipynb)
-<b>This is sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and analysed to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service"). The accuracy of different classifier models is observed.</b>
+<br>This is sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and analysed to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service"). The accuracy of different classifier models is observed. 
 
 ## NLP
 [Elmo Embeddings](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Elmo_Embeddings.ipynb)
-<b>In this experiment, we build a neural network for sentiment analysis on IMDB movie reviews data. ELMo (Embeddings from Language Models) design uses a deep bidirectional LSTM language model for learning words and their context.The accuracies on unseen texts for ELMo Embeddings is 75%</b>
+<br>In this experiment, we build a neural network for sentiment analysis on IMDB movie reviews data. ELMo (Embeddings from Language Models) design uses a deep bidirectional LSTM language model for learning words and their context.The accuracies on unseen texts for ELMo Embeddings is 75%.
 
 [Movie_Recommender ](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Movie_Recommender.ipynb)
-<b>We  build a movie recommendation system based on data pertaining to different movies and recommend similar movies of interest! This falls under content-based recommenders. Since focus here is on NLP, we leverage text-based metadata for each movie to try and recommend similar movies based on specific movies of interest. Cosine Similarity is used to calculate a numeric score to denote the similarity between two text documents. Pipeline is Text pre-processing, Feature Engineering, Document Similarity Computation, Find top similar movies, Build movie recommendation function.</b>
+<br>We  build a movie recommendation system based on data pertaining to different movies and recommend similar movies of interest! This falls under content-based recommenders. Since focus here is on NLP, we leverage text-based metadata for each movie to try and recommend similar movies based on specific movies of interest. Cosine Similarity is used to calculate a numeric score to denote the similarity between two text documents. Pipeline is Text pre-processing, Feature Engineering, Document Similarity Computation, Find top similar movies, Build movie recommendation function. 
 
 [Neural machine Translator (English-German )](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Neural%20machine%20translator%20English-German%20.ipynb)
-<b>We build a seq2seq DL Models for Word Level Language Translation. The objective is to convert a German sentence (sequence of words) to English using a Neural Machine Translation (NMT) system based on word level encoder-decoder models. We use German-English sentence pairs data from http://www.manythings.org/anki/
-Sequence-to-Sequence (seq2seq) models are used for a variety of NLP tasks, such as text summarization, speech recognition, language translation, text-to-speech, speech-to-text among others. The model input and output are both sentences. </b>
+<br>We build a seq2seq DL Models for Word Level Language Translation. The objective is to convert a German sentence (sequence of words) to English using a Neural Machine Translation (NMT) system based on word level encoder-decoder models. We use German-English sentence pairs data from http://www.manythings.org/anki/
+Sequence-to-Sequence (seq2seq) models are used for a variety of NLP tasks, such as text summarization, speech recognition, language translation, text-to-speech, speech-to-text among others. The model input and output are both sentences.  
 
 [Shakespeare_text_generation ](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Shakespeare_text_generation.ipynb)
-<b>We create a language model for generating natural language text by implement and training LSTM.
-A trained language model learns the likelihood of occurrence of a word based on the previous sequence of words used in the text. We will first tokenize the seed text, pad the sequences and pass into the trained model to get predicted word.  The multiple predicted words can be appended together to get predicted sequence.</b>
+<br>We create a language model for generating natural language text by implement and training LSTM.
+A trained language model learns the likelihood of occurrence of a word based on the previous sequence of words used in the text. We will first tokenize the seed text, pad the sequences and pass into the trained model to get predicted word.  The multiple predicted words can be appended together to get predicted sequence. 
 
 [Spam_filtering_Decision_Tree ](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Spam_filtering_Decision_Tree.ipynb)
-<b>Our goal is to predict whether the new e-mail is spam or not-spam. We use dataset and ML decision tree algorithm and provide the best suited class for the new mail. The algorithm that implements the classification is called a classifier. The accuracy of classifier is 96% and AUC 93%.</b>
+<br>Our goal is to predict whether the new e-mail is spam or not-spam. We use dataset and ML decision tree algorithm and provide the best suited class for the new mail. The algorithm that implements the classification is called a classifier. The accuracy of classifier is 96% and AUC 93%. 
 
 [Word_Embeddings ](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Word_Embeddings.ipynb)
- <b>Word embedding is process of converting each word to a fixed dimensional "word vector". Dimensionality of embedding space (i.e., vector space) is a hyperparameter. The model has and embedding layer used as first layer in network to model text format data.  Test Accuracy of word embedding model is 85%</b>
+ <br>Word embedding is process of converting each word to a fixed dimensional "word vector". Dimensionality of embedding space (i.e., vector space) is a hyperparameter. The model has and embedding layer used as first layer in network to model text format data.  Test Accuracy of word embedding model is 85%.
 
 [Text Classification_Reuter] (https://github.com/ramapriyakp/Portfolio/blob/master/NLP/text_classification_Reuter.ipynb
-<b>Reuters-21578 is arguably the most commonly used collection for text classification . The newswire articles is a multi-label problem with highly skewed distribution of documents over categories. The OneVsRestClassifier(LinearSVC) model  metrics is  F1-measure: 0.86 for Micro-average  and F1-measure: 0.44 for Macro-average</b>   
+<br>Reuters-21578 is arguably the most commonly used collection for text classification . The newswire articles is a multi-label problem with highly skewed distribution of documents over categories. The OneVsRestClassifier(LinearSVC) model  metrics is  F1-measure: 0.86 for Micro-average  and F1-measure: 0.44 for Macro-average.  
