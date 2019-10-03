@@ -45,5 +45,4 @@ Word embedding is process of converting each word to a fixed dimensional "word v
 ### [Text Classification (Reuter)](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/text_classification_Reuter.ipynb)
 Reuters-21578 is a commonly used collection for text classification . The newswire articles is a multi-label problem with highly skewed distribution of documents over categories. The OneVsRestClassifier(LinearSVC) model  metrics is  F1-measure: 0.86 for Micro-average  and F1-measure: 0.44 for Macro-average. 
 
-## Contact
-  Email : ramapriya.kp@gmail.com
+
