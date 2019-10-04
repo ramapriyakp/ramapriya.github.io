@@ -25,7 +25,7 @@ This is sentiment analysis job about the problems of each major U.S. airline. Tw
 ### [Elmo Embeddings](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Elmo_Embeddings.ipynb)
 In this experiment, we build a neural network for sentiment analysis on IMDB movie reviews data. ELMo (Embeddings from Language Models) design uses a deep bidirectional LSTM language model for learning words and their context.The accuracies on unseen texts for ELMo Embeddings is 75%. 
 
-### [Movie_Recommender ](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Movie_Recommender.ipynb)
+### [Movie Recommender ](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Movie_Recommender.ipynb)
 We  build a movie recommendation system based on data pertaining to different movies and recommend similar movies of interest. This falls under content-based recommenders. Since focus here is on NLP, we leverage text-based metadata for each movie to try and recommend similar movies based on specific movies of interest. Cosine Similarity is used to calculate a numeric score to denote the similarity between two text documents. Pipeline is Text pre-processing, Feature Engineering, Document Similarity Computation, Find top similar movies, Build movie recommendation function.
 
 ### [Neural machine Translation (English-German )](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Neural%20machine%20translator%20English-German%20.ipynb)
@@ -39,7 +39,7 @@ A trained language model learns the likelihood of occurrence of a word based on 
 ### [Spam Filtering :Decision Tree ](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Spam_filtering_Decision_Tree.ipynb)
 The goal is to predict whether the new e-mail is spam or not-spam. We use ML decision tree algorithm and provide the best suited class for the new mail.The accuracy of classifier is 96% and AUC 93%. 
 
-### [Word_Embeddings](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Word_Embeddings.ipynb)
+### [Word Embeddings](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/Word_Embeddings.ipynb)
 Word embedding is process of converting each word to a fixed dimensional "word vector". Dimensionality of embedding space (i.e., vector space) is a hyperparameter. The model has and embedding layer used as first layer in network to model text format data.  Test Accuracy of word embedding model is 85%. 
 
 ### [Text Classification (Reuter)](https://github.com/ramapriyakp/Portfolio/blob/master/NLP/text_classification_Reuter.ipynb)
